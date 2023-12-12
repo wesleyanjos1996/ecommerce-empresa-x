@@ -44,3 +44,5 @@ __Melhoria 1__, _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/matheusbattisti
+
+[![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)](https://www.github.com/matheusbattisti)
